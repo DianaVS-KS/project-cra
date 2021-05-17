@@ -1,0 +1,32 @@
+
+span {
+    font-size: 40px;
+}
+
+h1 span {
+    color: #59C9A5;
+}
+
+h2 {
+    color: #9DACFF;
+}
+
+h4 {
+    color: #1C6E8C;
+}
+
+.hobbies-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.hobbies {
+    border-radius: 20px;
+    border: 1px solid #1C6E8C;
+    margin: 10px; 
+    padding: 10px 40px;
+    width: 300px;
+    word-break: break-all;
+    hyphens: auto;
+}
